@@ -4,6 +4,8 @@ Boxee is a freeware cross-platform media center software with social networking 
 custom gnu/linux distribution (based on Gentoo/Debian?) to run on specific Hardware engineered by D-Link.  This unit has since 
 been aqhuired by Samsung machine.
 
+Need to gather relevant documentation for the DVR version of this box.
+
 Enclosure Specifications
 
 Front
